@@ -24,7 +24,8 @@ Dedan Kimathi University of Technology (DeKUT) · Graduated May 2025 · Second C
 ## Certifications
 
 ### Introduction to Cybersecurity
-*Cisco Networking Academy · Issued Sep 12, 2026 · [View certificate](certificates/Introduction_to_Cybersecurity.jpg)*
+*Cisco Networking Academy · Issued Sep 12, 2026 · [View certificate](<img width="1052" height="814" alt="image" src="https://github.com/user-attachments/assets/d11c2f3f-ab04-49af-9a75-194f99095f30" />
+)*
 
 - Identified common cyber threats, attacks, and vulnerabilities.
 - Learned best practices for securing personal and organizational data online.
