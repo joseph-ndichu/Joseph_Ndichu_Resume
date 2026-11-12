@@ -2,7 +2,7 @@
 
 **Aspiring Cybersecurity, SOC Analyst, and Network Security professional**
 
-Nairobi, Kenya · 0707848566 · [ndichujoseph591@gmail.com](mailto:ndichujoseph591@gmail.com) · [GitHub](https://github.com/joseph-ndichu) · [CyberLibrary web app](https://estenlab.com/)
+Nairobi, Kenya · 0707848566 · [ndichujoseph591@gmail.com](mailto:ndichujoseph591@gmail.com) · [GitHub](https://github.com/joseph-ndichu) · [Library and CYber-News Engine Web App](https://estenlab.com/)
 
 ---
 
