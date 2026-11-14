@@ -73,8 +73,8 @@ using subtotals to summarize groups and applying data validation rules.
 
 ## Projects & Practical Experience
 
-### CyberLibrary (web app)
-A web app I built: [company.cyberlibrary.workers.dev](https://company.cyberlibrary.workers.dev/)
+### EstenLab (web app)
+A web app I built: [estenlab.com](https://estenlab.com/)
 
 ### Secure Wireless Network Configuration Lab
 *Cisco Networking Academy*
@@ -101,5 +101,5 @@ Write-ups of my VPN labs (miniVPN, and bypassing a firewall with a VPN tunnel): 
 ## Professional Development & Interests
 
 - Active participant in TryHackMe and Hack The Box.
-- Self-studying for CompTIA Security+.
+- Self-studying for Cisco CCNA and CCST.
 - **Interests:** Threat Hunting, Network Defense, Ethical Hacking, Data Security.
